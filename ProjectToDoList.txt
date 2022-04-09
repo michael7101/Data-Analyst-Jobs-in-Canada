@@ -2,3 +2,6 @@
  - Set up data cleaning process  
  - Analyze the data 
  - Write out the report
+ - Scrap the number of pages that needs to be scrapped
+ - Add code descritions in Web Scrapper
+ - Clean out useless files
