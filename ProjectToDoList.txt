@@ -1,2 +1,4 @@
  - Build automation for web Scrapper
  - Set up data cleaning process  
+ - Analyze the data 
+ - Write out the report
