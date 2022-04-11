@@ -1,7 +1,5 @@
- - Create code that automates data file name
- - Build automation for web Scrapper
- - Set up data cleaning process  
- - Analyze the data 
- - Write out the report
- - Add code descritions in Web Scrapper
- - Clean out useless files
+- Set up data cleaning process  
+- Analyze the data 
+- Write out the report
+- Add code descritions in Web Scrapper
+
