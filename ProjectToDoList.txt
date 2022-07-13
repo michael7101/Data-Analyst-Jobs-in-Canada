@@ -1,5 +1,12 @@
 - Set up data cleaning process  
+    - Remove useless features
+    - clean job tiles
+    - Clean location
+    - Add province 
+    - 
 - Analyze the data 
-- Write out the report
+    - Research top skills
+- Create the report
+    - 
 - Add code descritions in Web Scrapper
 
