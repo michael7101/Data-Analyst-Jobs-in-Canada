@@ -1,9 +1,11 @@
 - Set up data cleaning process  
-    - Remove useless features
-    - clean job tiles
+    - Clean job tiles
     - Clean location
     - Add province 
     - 
+    -
+    -
+    
 - Analyze the data 
     - Research top skills
 - Create the report
