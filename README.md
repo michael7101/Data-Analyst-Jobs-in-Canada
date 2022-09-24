@@ -99,7 +99,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [Beautiful Soup 4][Beautiful-Soup-4-url]
 * [Requests: HTTP for Humans][Requests:-HTTP-for-Humans-url]
 * [pandas][pandas-url]
-* [JQuery][JQuery-url]
+* [NumPy][NumPy-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,4 +236,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Beautiful-Soup-4-url]: https://beautiful-soup-4.readthedocs.io/en/latest/#
 [Requests:-HTTP-for-Humans-url]: https://requests.readthedocs.io/en/latest/
 [pandas-url]: https://pandas.pydata.org/
-[JQuery-url]: https://jquery.com 
+[NumPy-url]: https://numpy.org/ 
