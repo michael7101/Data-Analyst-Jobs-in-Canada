@@ -228,7 +228,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://github.com/michael7101/Data-Analyst-Jobs-in-Canada/blob/54c445278973d7d5a09f485833782110489369d7/Code/Power_BI/Images/Jupyter.jpg
+[Next.js]: Code/Power_BI/Images/Jupyter.jpg
 [Next-url]: https://jupyter.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
