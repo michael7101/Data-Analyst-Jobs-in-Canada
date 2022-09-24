@@ -94,9 +94,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [Python][Python-url]
 * [Jupyter][Jupyter-url]
-* [Vue][Vue-url]
-* [Angular][Angular-url]
-* [Svelte][Svelte-url]
+* [Power BI][PowerBI-url]
+* [PhantomBuster][PhantomBuster-url]
+* [Beautiful Soup 4][Beautiful-Soup-4-url]
 * [Laravel][Laravel-url]
 * [Bootstrap][Bootstrap-url]
 * [JQuery][JQuery-url]
@@ -231,9 +231,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [Python-url]: https://www.python.org/
 [Jupyter-url]: https://jupyter.org/
-[Vue-url]: https://vuejs.org/
-[Angular-url]: https://angular.io/
-[Svelte-url]: https://svelte.dev/
+[PowerBI-url]: https://powerbi.microsoft.com/en-gb/
+[PhantomBuster-url]: https://phantombuster.com/
+[Beautiful-Soup-4-url]: https://beautiful-soup-4.readthedocs.io/en/latest/#
 [Laravel-url]: https://laravel.com
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery-url]: https://jquery.com 
