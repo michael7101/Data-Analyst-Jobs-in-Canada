@@ -30,7 +30,7 @@ The objective of this project is to scrape data for jobs site to analyze and ran
 <h3 align="center">Data Analyst Jobs in Canada</h3>
 
   <p align="center">
-    project_description
+    The objective of this project is to scrape data for jobs site to analyze and rank the top skill employer our seeking to fill Data Analysis job positions in Canada.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
