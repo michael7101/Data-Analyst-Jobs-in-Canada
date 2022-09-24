@@ -27,7 +27,7 @@ The objective of this project is to scrape data for jobs site to analyze and ran
     <img src="Code/Power_BI/Images/Job_data.jpg" alt="Logo" width="1800" height="200">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Data Analyst Jobs in Canada</h3>
 
   <p align="center">
     project_description
