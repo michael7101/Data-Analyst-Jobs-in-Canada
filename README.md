@@ -94,11 +94,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [Python][Python-url]
 * [Jupyter][Jupyter-url]
-* [Power BI][PowerBI-url]
+* [Microsoft Power BI][PowerBI-url]
 * [PhantomBuster][PhantomBuster-url]
 * [Beautiful Soup 4][Beautiful-Soup-4-url]
-* [Laravel][Laravel-url]
-* [Bootstrap][Bootstrap-url]
+* [Requests: HTTP for Humans][Requests:-HTTP-for-Humans-url]
+* [pandas][pandas-url]
 * [JQuery][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -234,6 +234,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [PowerBI-url]: https://powerbi.microsoft.com/en-gb/
 [PhantomBuster-url]: https://phantombuster.com/
 [Beautiful-Soup-4-url]: https://beautiful-soup-4.readthedocs.io/en/latest/#
-[Laravel-url]: https://laravel.com
-[Bootstrap-url]: https://getbootstrap.com
+[Requests:-HTTP-for-Humans-url]: https://requests.readthedocs.io/en/latest/
+[pandas-url]: https://pandas.pydata.org/
 [JQuery-url]: https://jquery.com 
