@@ -24,7 +24,7 @@ The objective of this project is to scrape data for jobs site to analyze and ran
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Code/Power_BI/Images/Job_data.jpg" alt="Logo" width="80" height="80">
+    <img src="Code/Power_BI/Images/Job_data.jpg" alt="Logo" width="1800" height="200">
   </a>
 
 <h3 align="center">project_title</h3>
