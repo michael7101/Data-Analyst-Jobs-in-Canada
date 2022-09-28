@@ -9,6 +9,17 @@
 
   <p align="center">
     The objective of this project is to scrape data for jobs site to analyze and rank the top skill employer our seeking to fill Data Analysis job positions in Canada.
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</div>
 
 
 
@@ -145,7 +156,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE][LICENSE-url] for more information.
+Distributed under the MIT License. See [LICENSE][LICENSE-url].txt` for more information.
 
 
 
