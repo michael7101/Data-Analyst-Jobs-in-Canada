@@ -64,27 +64,23 @@
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-![](Code/Power_BI/Images/job-data-0.jpg)
+## Results
 
-![](Code/Power_BI/Images/job-data-1.jpg)
+![View Interactive Report](Code/Power_BI/Images/job-data-0.jpg)
+
+![View Interactive Report](Code/Power_BI/Images/job-data-1.jpg)
 
 [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMDk0NjE1NDgtY2IyOC00OTgzLWE0YzktMTJkYTY2ODlhOGMzIiwidCI6Ijg4ZTM4Mzc0LTNjY2MtNDc1Zi1iY2NmLTlkYjg5NGM4MDI4ZiJ9&pageName=ReportSection3965678a7317d91d7e4c)
 
 
 
-### Prerequisites
+### Process
 
 
-### Installation
 
+## What's Next
 
-## Usage
-
-
-## Roadmap
 
 
 ## Contributing
