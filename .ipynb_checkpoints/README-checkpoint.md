@@ -7,19 +7,9 @@
 
 <h3 align="center">Data Analyst Jobs in Canada</h3>
 
-  <p align="center">
-    The objective of this project is to scrape data for jobs site to analyze and rank the top skill employer our seeking to fill Data Analysis job positions in Canada.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
 </div>
+
+
 
 
 
@@ -54,9 +44,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+ The objective of this project is to scrape data for jobs site to analyze and rank the top skill employer our seeking to fill Data Analysis job positions in Canada.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 
 
@@ -75,68 +64,28 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-![](Code/Power_BI/Images/job-data-0.jpg)
+## Results
 
-![](Code/Power_BI/Images/job-data-1.jpg)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMDk0NjE1NDgtY2IyOC00OTgzLWE0YzktMTJkYTY2ODlhOGMzIiwidCI6Ijg4ZTM4Mzc0LTNjY2MtNDc1Zi1iY2NmLTlkYjg5NGM4MDI4ZiJ9&pageName=ReportSection3965678a7317d91d7e4c
+" target="_blank"><img src="https://github.com/michael7101/Data-Analyst-Jobs-in-Canada/blob/fde14a687a6da6a81863e9a0429ba7ed491c5fd2/Code/Power_BI/Images/job-data-0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="940" height="528" border="10" /></a>
 
-[View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiMDk0NjE1NDgtY2IyOC00OTgzLWE0YzktMTJkYTY2ODlhOGMzIiwidCI6Ijg4ZTM4Mzc0LTNjY2MtNDc1Zi1iY2NmLTlkYjg5NGM4MDI4ZiJ9&pageName=ReportSection3965678a7317d91d7e4c)
+![View Interactive Report](Code/Power_BI/Images/job-data-0.jpg)
+
+![View Interactive Report](Code/Power_BI/Images/job-data-1.jpg)
+
+[View Interactive Report][View-Interactive-Report-url]
 
 
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### Process
 
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+## What's Next
 
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -145,9 +94,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch
 5. Open a Pull Request
 
 
@@ -156,7 +105,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE][LICENSE-url].txt` for more information.
 
 
 
@@ -164,9 +113,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Michael Jean -  [LinkedIn](https://www.linkedin.com/in/michaeljean7101/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/michael7101/Data-Analyst-Jobs-in-Canada](https://github.com/michael7101/Data-Analyst-Jobs-in-Canada)
 
 
 
@@ -176,6 +125,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 * []()
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,3 +142,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Requests:-HTTP-for-Humans-url]: https://requests.readthedocs.io/en/latest/
 [pandas-url]: https://pandas.pydata.org/
 [NumPy-url]: https://numpy.org/ 
+[LICENSE-url]: https://github.com/michael7101/Data-Analyst-Jobs-in-Canada/blob/b346a5f7ece8aab1d0bc7154f22f8102ac948367/LICENSE
+[View-Interactive-Report-url]: (https://app.powerbi.com/view?r=eyJrIjoiMDk0NjE1NDgtY2IyOC00OTgzLWE0YzktMTJkYTY2ODlhOGMzIiwidCI6Ijg4ZTM4Mzc0LTNjY2MtNDc1Zi1iY2NmLTlkYjg5NGM4MDI4ZiJ9&pageName=ReportSection3965678a7317d91d7e4c)
