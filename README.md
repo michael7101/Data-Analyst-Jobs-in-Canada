@@ -145,9 +145,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch
 5. Open a Pull Request
 
 
@@ -156,7 +156,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE][LICENSE-url] for more information.
 
 
 
@@ -177,6 +177,8 @@ Project Link: [https://github.com/michael7101/Data-Analyst-Jobs-in-Canada](https
 * []()
 * []()
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -191,3 +193,4 @@ Project Link: [https://github.com/michael7101/Data-Analyst-Jobs-in-Canada](https
 [Requests:-HTTP-for-Humans-url]: https://requests.readthedocs.io/en/latest/
 [pandas-url]: https://pandas.pydata.org/
 [NumPy-url]: https://numpy.org/ 
+[LICENSE-url]: https://github.com/michael7101/Data-Analyst-Jobs-in-Canada/blob/b346a5f7ece8aab1d0bc7154f22f8102ac948367/LICENSE
