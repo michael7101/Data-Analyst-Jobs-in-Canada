@@ -164,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Michael Jean -  [LinkedIn].(https://www.linkedin.com/in/michaeljean7101/).
+Michael Jean -  [LinkedIn](https://www.linkedin.com/in/michaeljean7101/)
 
 Project Link: [https://github.com/michael7101/Data-Analyst-Jobs-in-Canada](https://github.com/michael7101/Data-Analyst-Jobs-in-Canada)
 
