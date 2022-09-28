@@ -67,9 +67,9 @@
 
 ## Results
 
-![View Interactive Report](Code/Power_BI/Images/job-data-0.jpg)[View-Interactive-Report-url]
+![Code/Power_BI/Images/job-data-0.jpg][View-Interactive-Report-url]
 
-![View Interactive Report](Code/Power_BI/Images/job-data-1.jpg)[View-Interactive-Report-url]
+![View Interactive Report](Code/Power_BI/Images/job-data-1.jpg)
 
 [View Interactive Report][View-Interactive-Report-url]
 
