@@ -143,4 +143,4 @@ Project Link: [https://github.com/michael7101/Data-Analyst-Jobs-in-Canada](https
 [pandas-url]: https://pandas.pydata.org/
 [NumPy-url]: https://numpy.org/ 
 [LICENSE-url]: https://github.com/michael7101/Data-Analyst-Jobs-in-Canada/blob/b346a5f7ece8aab1d0bc7154f22f8102ac948367/LICENSE
-[View-Interactive-Report-url]: (https://app.powerbi.com/view?r=eyJrIjoiMDk0NjE1NDgtY2IyOC00OTgzLWE0YzktMTJkYTY2ODlhOGMzIiwidCI6Ijg4ZTM4Mzc0LTNjY2MtNDc1Zi1iY2NmLTlkYjg5NGM4MDI4ZiJ9&pageName=ReportSection3965678a7317d91d7e4c)
+[View-Interactive-Report-url]: https://app.powerbi.com/view?r=eyJrIjoiMDk0NjE1NDgtY2IyOC00OTgzLWE0YzktMTJkYTY2ODlhOGMzIiwidCI6Ijg4ZTM4Mzc0LTNjY2MtNDc1Zi1iY2NmLTlkYjg5NGM4MDI4ZiJ9&pageName=ReportSection3965678a7317d91d7e4c
