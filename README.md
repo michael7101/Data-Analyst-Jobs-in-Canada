@@ -110,7 +110,7 @@ Project Link: [https://github.com/michael7101/Data-Analyst-Jobs-in-Canada](https
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []https://github.com/othneildrew/Best-README-Template()
+* https://github.com/othneildrew/Best-README-Template
 * []()
 * []()
 
