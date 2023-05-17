@@ -1,0 +1,4 @@
+- move data to SQL
+- process data in SQL
+- create data visuals in power BI
+- wright the report
